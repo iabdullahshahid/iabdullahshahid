@@ -12,7 +12,7 @@ I'm Abdullah Shahid a Full Stack Developer Mobile and . I Spend most of time lea
 
 - 🔭 I’m currently working at @Arpatech @Krashless
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Ideas to develop in real world project.
+- 🤔 I’m looking for the **IDEAS** to develop in real world projects.
 - 📫 How to reach me: ashahid.dev@gmai.com.
 - 😄 Pronouns: Bunny, He/His
 - ⚡ Fun fact: I play games and do code always thinking to go to gym.
