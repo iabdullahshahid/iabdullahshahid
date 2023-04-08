@@ -6,7 +6,7 @@ I'm Abdullah Shahid a Full Stack Developer Mobile and . I Spend most of time lea
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_abdullahshahid)](https://twitter.com/_abdullahshahid)[![Linkedin Badge](https://img.shields.io/badge/-Iabdullahshahid-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iabdullahshahid/) [![Mail Badge](https://img.shields.io/badge/-@iabdullahshahid-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/iabdullahshahid) [![Mail Badge](https://img.shields.io/badge/-ashahid.dev@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ashahid.dev@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@iabdullahshahid-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_abdullahshahid)](https://twitter.com/_abdullahshahid)[![Linkedin Badge](https://img.shields.io/badge/-Iabdullahshahid-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iabdullahshahid/) [![Mail Badge](https://img.shields.io/badge/-@iabdullahshahid-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/iabdullahshahid) [![Mail Badge](https://img.shields.io/badge/-ashahid.dev@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ashahid.dev@gmail.com)
 
 <!-- TODO: Add last video link -->
 
