@@ -2,7 +2,7 @@
 
 ![iabdullahshahid](./git-assets/info-header.png)
 
-I'm Abdullah Shahid a Full Stack Developer Mobile and . I Spend most of time learning new things and doing freelancing and now trying to provide my services to community.
+I'm Abdullah Shahid a Full Stack Developer Mobile. I Spend most of time learning new things and doing freelancing and now trying to provide my services to github community.
 
 :mailbox: Reach me out!
 
